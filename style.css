@@ -150,6 +150,7 @@ section h2 {
   text-decoration: none;
   box-shadow: 0 0 10px #1b3a57cc;
   transition: box-shadow 0.4s ease, transform 0.3s ease;
+  white-space:nowrap ;
 }
 
 .btn-buy:hover {
